@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="text_view_title_style">
+        <item name="android:background">#B71C1C</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingEnd">24dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:textColor">#FFFF</item>
+        <item name="android:textSize">45sp</item>
+    </style>
+
+    <style name="text_view_date_style">
+        <item name="android:background">#d3d3d3</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingTop">3dp</item>
+        <item name="android:paddingEnd">16dp</item>
+        <item name="android:paddingBottom">3dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="text_view_tab_style">
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="text_view_description_style">
+        <item name="android:background">#181818</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingStart">8dp</item>
+        <item name="android:paddingEnd">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:textColor">#FFFF</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+</resources>
